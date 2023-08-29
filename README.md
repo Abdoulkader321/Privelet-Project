@@ -5,3 +5,5 @@ data” of this  [research paper](https://ieeexplore.ieee.org/document/5674037).
 
 Then to compare the implementation with a baseline solution (also implemented): a naive
 differentially private perturbation of a sequence of counts.
+
+You can find the implementations and report [here](privelet.ipynb) in a Python notebook.
